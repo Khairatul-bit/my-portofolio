@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Muhammad Khairatul",
     description:
-      "Personal portfolio showcasing expertise in software engineering, coloring, and RPA.",
+      "Personal portfolio showcasing expertise in Web Developer, Data Scientist, and UI/UX.",
     url: "https://www.yourwebsite.com",
     siteName: "Muhammad Khairatul Portfolio",
     images: [
@@ -48,9 +48,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Muhammad Khairatul | Software Engineer & Colorist",
+    title: "Muhammad Khairatul | Web Developer, Data Scientist, and UI/UX.",
     description:
-      "Personal portfolio showcasing expertise in software engineering, coloring, and RPA.",
+      "Personal portfolio showcasing expertise in Web Developer, Data Scientist, and UI/UX.",
     creator: "@Khairatul",
     images: ["https://www.yourwebsite.com/twitter-image.jpg"],
   },
