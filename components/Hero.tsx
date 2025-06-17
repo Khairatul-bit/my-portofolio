@@ -93,7 +93,7 @@ export const Hero = () => {
               </motion.p>
 
               <motion.a
-                href="/Cv khairatul baru.pdf"
+                href="/khairatul cv.pdf"
                 download={"khairatul-resume"}
                 initial={{ opacity: 0, y: 0 }}
                 animate={{ opacity: 1, y: 10 }}
